@@ -1,5 +1,5 @@
-create database if not exists aula30_09;
-use aula30_09;
+create database if not exists aula;
+use aula;
 create table if not exists usuario(
  id_user int auto_increment,
  nome_user varchar(100) not null,
